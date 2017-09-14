@@ -1,7 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
 //Add variables here:
 
-//
+//Concepts learned: Nesting, Variables and using various data types within the variables.
+//Using variables in scss makes it easier to reference values with unique identifiers;
+
+$standard-border: 4px, solid, black; //defining a variable to use for unifying borders
 
 $icon-square-length: 300px; //defining a variable to use as a length for multiple attributes
 
